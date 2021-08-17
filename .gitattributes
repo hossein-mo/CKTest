@@ -1,0 +1,2 @@
+# to change language of repo from Jupyter Notebook to Python
+    *.js linguist-language=Python
